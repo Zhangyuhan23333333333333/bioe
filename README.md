@@ -8,7 +8,6 @@ week4-5：
 q1：
 cd /home/zhany0y/fond_of_bioe/week5-github/bioe/
 python week5-q1.py
-
 outp：
 The number of amino acids in the encoded peptide (not including the stop codon) is 30.
 The open reading frame of the DNA sequence encoding the amino acids (including the stop codon) contains 93 bases.
